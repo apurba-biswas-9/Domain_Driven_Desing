@@ -1,0 +1,14 @@
+C:\source\DDD\DomainDrivenDesign_Practice\DomainDrivenDesign_Practice\bin\Debug\netcoreapp2.2\DomainDrivenDesign_Practice.deps.json
+C:\source\DDD\DomainDrivenDesign_Practice\DomainDrivenDesign_Practice\bin\Debug\netcoreapp2.2\DomainDrivenDesign_Practice.runtimeconfig.json
+C:\source\DDD\DomainDrivenDesign_Practice\DomainDrivenDesign_Practice\bin\Debug\netcoreapp2.2\DomainDrivenDesign_Practice.runtimeconfig.dev.json
+C:\source\DDD\DomainDrivenDesign_Practice\DomainDrivenDesign_Practice\bin\Debug\netcoreapp2.2\DomainDrivenDesign_Practice.dll
+C:\source\DDD\DomainDrivenDesign_Practice\DomainDrivenDesign_Practice\bin\Debug\netcoreapp2.2\DomainDrivenDesign_Practice.pdb
+C:\source\DDD\DomainDrivenDesign_Practice\DomainDrivenDesign_Practice\obj\Debug\netcoreapp2.2\DomainDrivenDesign_Practice.csprojAssemblyReference.cache
+C:\source\DDD\DomainDrivenDesign_Practice\DomainDrivenDesign_Practice\obj\Debug\netcoreapp2.2\DomainDrivenDesign_Practice.csproj.CoreCompileInputs.cache
+C:\source\DDD\DomainDrivenDesign_Practice\DomainDrivenDesign_Practice\obj\Debug\netcoreapp2.2\DomainDrivenDesign_Practice.RazorAssemblyInfo.cache
+C:\source\DDD\DomainDrivenDesign_Practice\DomainDrivenDesign_Practice\obj\Debug\netcoreapp2.2\DomainDrivenDesign_Practice.RazorAssemblyInfo.cs
+C:\source\DDD\DomainDrivenDesign_Practice\DomainDrivenDesign_Practice\obj\Debug\netcoreapp2.2\DomainDrivenDesign_Practice.AssemblyInfoInputs.cache
+C:\source\DDD\DomainDrivenDesign_Practice\DomainDrivenDesign_Practice\obj\Debug\netcoreapp2.2\DomainDrivenDesign_Practice.AssemblyInfo.cs
+C:\source\DDD\DomainDrivenDesign_Practice\DomainDrivenDesign_Practice\obj\Debug\netcoreapp2.2\DomainDrivenDesign_Practice.RazorTargetAssemblyInfo.cache
+C:\source\DDD\DomainDrivenDesign_Practice\DomainDrivenDesign_Practice\obj\Debug\netcoreapp2.2\DomainDrivenDesign_Practice.dll
+C:\source\DDD\DomainDrivenDesign_Practice\DomainDrivenDesign_Practice\obj\Debug\netcoreapp2.2\DomainDrivenDesign_Practice.pdb
